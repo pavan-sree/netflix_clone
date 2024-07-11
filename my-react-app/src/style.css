@@ -1,0 +1,148 @@
+.body{
+    height: 650px;
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/1fd8c6d0-20db-4667-860e-dd1ad7353ac0/10f8d166-7c8c-499a-b16f-57c3740cdeae/IN-en-20240624-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+}
+
+ #btn-1{
+    margin-left: 10px;
+    font-weight: 700;
+
+ }
+ .imagefront{
+    margin-left: 300px;
+    margin-top: -50px;
+ }
+ .headind-1{
+    color: aliceblue;
+    margin-left: 50px;
+ }
+ .headind-2{
+    color: aliceblue;
+    margin-left: 200px;
+ }
+ .headind-3{
+    color: aliceblue;
+ }
+ .box-1{
+    background-color: black;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 1920px;
+    height: 900px;
+ }
+ .box-2{
+    margin-top: -700px;
+    margin-left: 600px;
+ }
+ 
+#btn-2{
+    width: 200px;
+    height: 60px;
+    font-weight: 700;
+    margin-top: -6px;
+    margin-left: 10px;
+}
+.em-1{
+    width: 465px;
+    height: 60px;
+    margin-top: 50px;
+    background-color: rgb(58, 57, 55);
+    color: aliceblue;
+    background-color: rgba(29, 28, 28, 0.8);
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+.box-3{
+    margin-left: 190px ;
+}
+.ps-1{
+   height: 60px;
+   margin-top: 10px;
+   background-color: rgb(58, 57, 55);
+   color: aliceblue;
+   background-color: rgba(29, 28, 28, 0.8);
+   text-align: center;
+   border: none;
+   border-radius: 5px;
+}
+.em-2{
+   height: 40px;
+   background-color: rgb(58, 57, 55);
+   color: aliceblue;
+   background-color: rgba(29, 28, 28, 0.8);
+   text-align: center;
+   border: none;
+   border-radius: 5px;
+   margin-left: 400px;
+}
+.ps-2{
+   margin-left: 10px;
+   height: 40px;
+   background-color: rgb(58, 57, 55);
+   color: aliceblue;
+   background-color: rgba(29, 28, 28, 0.8);
+   text-align: center;
+   border: none;
+   border-radius: 5px;
+}
+.img-1{
+   width: 300px;
+}
+.navtext{
+   text-decoration: none;
+   color: rgb(145, 139, 134);
+   margin-left: 50px;
+   font-size: larger;
+}
+.nav-1{
+   background-color: rgb(34, 30, 30);
+   
+}
+.navtext-0{
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   font-size: small;
+   margin-left: 20px;
+}
+.img-2{
+   margin-left: 700px;
+   width: 50px;
+   border-radius: 50px;
+}
+
+.video-grid {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   gap: 16px;
+   padding: 16px;
+ }
+ 
+ .video-item {
+   background-color: #f9f9f9;
+   border: 1px solid #ccc;
+   padding: 8px;
+   border-radius: 8px;
+ }
+.video-container{
+   border-radius: 20px;
+   background-color: black;
+   height: 300px;
+}
+.btn-3{
+   width: 120px;
+   height: 40px;
+   font-weight: 700;
+   background-color: rgb(179, 42, 42);
+   border-color: rgb(179, 42, 42) ;
+   border-radius: 15px;
+   margin-left: -5px;
+   margin-top: -5px;
+   
+}
+.desc{
+   margin-left: 150px;
+   margin-top: -40px;
+   color: #f9f9f9;
+   font-size: smaller;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
